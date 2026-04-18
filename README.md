@@ -4,13 +4,8 @@ Evidence Management System for secure intake, tracking, and verification of digi
 
 This project is a role-based web application where police teams register and upload evidence records, and court teams verify those records. It uses blockchain for tamper-resistant record history and IPFS (via Pinata) for file storage.
 
-## Who This Is For
 
-- Non-technical stakeholders who want to understand what this system does.
-- Developers who want to run the project locally.
-- Teams evaluating blockchain-backed chain-of-custody workflows.
-
-## Plain-Language Summary
+## Summary
 
 Think of CustodyLedger as a digital evidence ledger:
 
